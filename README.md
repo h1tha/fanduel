@@ -1,6 +1,6 @@
 # Fanduel Take-Home Test
 
-# Files
+### Files
 
 | File/Folder | Description |
 | --- | --- |
