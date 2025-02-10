@@ -1,4 +1,4 @@
-# Fanduel Take-Home Test
+# Take-Home Test
 
 ### Files
 
